@@ -169,6 +169,7 @@ public class RetrofitHelper implements ServiceCreator.Helper<RetrofitHelper.Serv
 
             Elements elements = doc.select("#ctl10_ctl00_AspNetPager1 div");
             if (elements.isEmpty()) {
+                userInfo.setUserType(UserInfo.LCP);
                 elements = doc.select("#ctl09_ctl00_AspNetPager1 div");
             }
             String info = elements.get(1).text();
@@ -265,7 +266,9 @@ public class RetrofitHelper implements ServiceCreator.Helper<RetrofitHelper.Serv
             course.setType(list9.get(3 * j).getElementsByTag("span").first().text());
             course.setLink(list4.get(j).select("span a").first().attr("href").replace(":80", ""));
             course.setId(extractCourseIdFromLink(course.getLink()));
-            courseList.add(course);
+            if (!courseList.contains(course)) {
+                courseList.add(course);
+            }
         }
         return courseList;
     }

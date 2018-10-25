@@ -41,7 +41,11 @@ public class DataLoader {
                 try {
                     for (int i = 2; i <= userInfo.getPageNum(); i++) {
                         Map<String, String> map = userInfo.getFormMap();
-                        map.put("__EVENTTARGET", "ctl10$ctl00$AspNetPager1");
+                        if (0 == userInfo.getUserType()) {
+                            map.put("__EVENTTARGET", "ctl10$ctl00$AspNetPager1");
+                        } else {
+                            map.put("__EVENTTARGET", "ctl09$ctl00$AspNetPager1");
+                        }
                         map.put("__EVENTARGUMENT", String.valueOf(i));
                         userInfo.getLearnedCourses().addAll(mService.getMoreLearnedCourses(map).execute().body());
                     }

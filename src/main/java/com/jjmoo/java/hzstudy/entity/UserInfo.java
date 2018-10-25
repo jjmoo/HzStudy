@@ -11,6 +11,8 @@ import java.util.Map;
  * @author Zohn
  */
 public class UserInfo {
+    public static final int LCP = 1;
+
     private String userId;
     private String name;
     private String score;
@@ -19,6 +21,7 @@ public class UserInfo {
     private int pageNum;
     private List<Course> learnedCourses;
     private Map<String, String> formMap;
+    private int userType;
 
     public String getUserId() {
         return userId;
@@ -78,5 +81,13 @@ public class UserInfo {
 
     public void setFormMap(Map<String, String> formMap) {
         this.formMap = formMap;
+    }
+
+    public int getUserType() {
+        return userType;
+    }
+
+    public void setUserType(int userType) {
+        this.userType = userType;
     }
 }
