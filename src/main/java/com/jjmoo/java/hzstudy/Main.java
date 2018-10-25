@@ -29,13 +29,13 @@ public class Main {
     }
 
     private static void start() {
-//        if (checkPermission()) {
+        if (checkPermission()) {
             sController = Controller.create(new UserCenter());
             sController.setStateAndExecute(new StateUseInfo());
-//        } else {
-//            System.out.println("Invalid User! EXIT ...");
-//            System.exit(-1);
-//        }
+        } else {
+            System.out.println("Invalid User! EXIT ...");
+            System.exit(-1);
+        }
     }
 
     public static void exit() {
