@@ -1,0 +1,40 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+        "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <title>汲墨</title>
+    <script type="text/javascript" src="pz_czj.js"></script>
+    <link rel="stylesheet" type="text/css" href="pz_czj.css"/>
+</head>
+
+<body>
+
+    <form id="form">
+        <div class="input_line">
+            <label class="label" for="content">Code 1:</label>
+            <input class="input" type="text" id="address" name="address">
+        </div>
+        <div class="input_line">
+            <label class="label" for="content">Code 2:</label>
+            <input class="input" type="text" id="content" name="content">
+        </div>
+        <div class="input_line">
+            <label class="label" for="length">Last time:</label>
+            <input class="input" type="text" id="length" name="length">
+        </div>
+        <div class="input_line">
+            <label class="label" for="minutes">Minutes:</label>
+            <input class="input" type="text" id="minutes" name="minutes">
+        </div>
+        <button class="button" type="button" onclick="toTrueAddress(this.form)">打开原视频</button>
+        <button class="button" type="button" onclick="analyzeData(this.form)">内部打开</button>
+        <button class="button" type="button" onclick="sendData(this.form)">学习</button>
+    </form>
+
+    <iframe class="frame" id="frame_play"></iframe><br />
+    <iframe class="frame" id="frame_check" src="http://study.huizhou.gov.cn/index.aspx?reurl=/my/default.aspx"></iframe><br />
+    <iframe class="frame" id="frame_send"></iframe><br />
+    <div id="me"><a href="http://www.jjmoo.com">博客地址</a></div>
+</body>
+</html>

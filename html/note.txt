@@ -1,0 +1,68 @@
+http://study.huizhou.gov.cn/play/PlayCore.aspx?user_nm=&course_id=5470
+
+PlayCore.aspx?
+user_nm=25145&
+course_id=5470
+
+PlayCore.aspx?
+user_nm=33535&
+course_id=5470
+
+
+/play/right.aspx?
+id=30887&
+uid=5470&
+code=mms://113.106.200.133/adks/NSTDC155182.wmv&
+student_id=hdx691123&
+course_id=NSTDC155182&
+COURSE_NUMBER=NSTDC155182&
+uidcount=1&
+title=%e9%ba%a6%e6%95%99%e7%8c%9b%20%20%20%e5%b8%82%e5%a7%94%e5%89%af%e4%b9%a6%e8%ae%b0%e3%80%81%e5%b8%82%e9%95%bf
+
+/play/right.aspx?
+id=30887&
+uid=5470&
+code=mms://113.106.200.133/adks/NSTDC155182.wmv&
+student_id=wqm770813&
+course_id=NSTDC155182&
+COURSE_NUMBER=NSTDC155182&
+uidcount=1&
+title=%e9%ba%a6%e6%95%99%e7%8c%9b%20%20%20%e5%b8%82%e5%a7%94%e5%89%af%e4%b9%a6%e8%ae%b0%e3%80%81%e5%b8%82%e9%95%bf
+
+
+http://study.huizhou.gov.cn/
+play/right.aspx?
+id=30886&
+uid=5471&
+code=mms://113.106.200.133/adks/NSTDC155183.wmv&
+student_id=hdx691123&
+course_id=NSTDC155183&
+COURSE_NUMBER=NSTDC155183&
+uidcount=1&
+title=%e9%99%88%e8%ae%ad%e5%bb%b7%20%20%20%e5%b8%82%e5%a7%94%e5%89%af%e4%b9%a6%e8%ae%b0%ef%bc%8c%e5%b8%82%e6%94%bf%e5%8d%8f%e5%85%9a%e7%bb%84%e4%b9%a6%e8%ae%b0%e3%80%81%e4%b8%bb%e5%b8%ad
+
+
+
+var getSendProcessUrlHead = function(id, student, course) {
+    var str = "http://study.huizhou.gov.cn/play/MmsProgress.ashx?";
+    str += "id=" + id;
+    str += "&student_id=" + student;
+    str += "&course_id=" + course;
+    str += "&uidcount=1";
+    return str;
+};
+location.href = url_head + "&timems=" + time + "&length=" + length;
+
+
+    var re = /right.aspx?.*?id=(.*?)&.*?student_id=(.*?)&.*?course_id=(.*?)&.*$/ig;
+    var r = re.exec(form.content.value);
+    var id = r[1];
+    var student = r[2];
+    var course = r[3];
+    url_head = getSendProcessUrlHead(id, student, course);
+
+
+
+	id
+	course_id
+	length

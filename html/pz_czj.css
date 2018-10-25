@@ -1,0 +1,42 @@
+body {
+    text-align: center;
+}
+#form {
+    margin-top: 100px;
+}
+.input_line {
+    height: 30px;
+}
+.label {
+    width: 70px;
+    display:inline-block;
+    text-align: right;
+    margin-right: 20px;
+}
+.input {
+    width: 170px;
+}
+.button {
+    width: 100px;
+    margin: 10px;
+}
+#frame_send {
+    height: 50px;
+}
+#frame_play {
+    height: 500px;
+    display: none;
+}
+#frame_check {
+    height: 600px;
+}
+.frame {
+    margin-top: 20px;
+    width: 1000px;
+    align-content: center;
+}
+#me {
+    position: absolute;
+    top: 0;
+    margin-left: 50px;
+}
