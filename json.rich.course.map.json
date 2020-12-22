@@ -1,16 +1,119 @@
 {
 
-//"http://study.huizhou.gov.cn/course/Course.aspx?id\u003d5469":
-//{"link":"http://study.huizhou.gov.cn/course/Course.aspx?id\u003d5469","id":"29869","courseId":"NSTDC155181","length":"45:00","maxTimeMs":45},
-
-//"http://study.huizhou.gov.cn/course/Course.aspx?id\u003d5470":
-//{"link":"http://study.huizhou.gov.cn/course/Course.aspx?id\u003d5470","id":"30887","courseId":"NSTDC155182","length":"43:30","maxTimeMs":43},
-//
-//"http://study.huizhou.gov.cn/course/Course.aspx?id\u003d5471":
-//{"link":"http://study.huizhou.gov.cn/course/Course.aspx?id\u003d5471","id":"30886","courseId":"NSTDC155183","length":"01:07:32","maxTimeMs":67},
-
-"http://study.huizhou.gov.cn/course/Course.aspx?id\u003d5472":
-{"link":"http://study.huizhou.gov.cn/course/Course.aspx?id\u003d5472","id":"30888","courseId":"NSTDC155184","length":"32:44","maxTimeMs":32},
+  "http://study.huizhou.gov.cn/course/Course.aspx?id\u003d12709":
+  {"link":"http://study.huizhou.gov.cn/course/Course.aspx?id\u003d12709","idFromCourse":"12709","id":"42908","courseId":"NGC82I2220105_2011","length":"18:33","maxTimeMs":18},
+  "http://study.huizhou.gov.cn/course/Course.aspx?id\u003d12708":
+  {"link":"http://study.huizhou.gov.cn/course/Course.aspx?id\u003d12708","idFromCourse":"12708","id":"42907","courseId":"NGC82I2320105_2011","length":"18:02","maxTimeMs":18},
+  "http://study.huizhou.gov.cn/course/Course.aspx?id\u003d12707":
+  {"link":"http://study.huizhou.gov.cn/course/Course.aspx?id\u003d12707","idFromCourse":"12707","id":"42906","courseId":"NGC84I2420105_2011","length":"52:44","maxTimeMs":52},
+  "http://study.huizhou.gov.cn/course/Course.aspx?id\u003d12706":
+  {"link":"http://study.huizhou.gov.cn/course/Course.aspx?id\u003d12706","idFromCourse":"12706","id":"42904","courseId":"NGC84I2520105_2011","length":"39:05","maxTimeMs":39},
+  "http://study.huizhou.gov.cn/course/Course.aspx?id\u003d12691":
+  {"link":"http://study.huizhou.gov.cn/course/Course.aspx?id\u003d12691","idFromCourse":"12691","id":"42889","courseId":"NGC85I4020115_2011","length":"32:56","maxTimeMs":32},
+  "http://study.huizhou.gov.cn/course/Course.aspx?id\u003d12690":
+  {"link":"http://study.huizhou.gov.cn/course/Course.aspx?id\u003d12690","idFromCourse":"12690","id":"42888","courseId":"NGC85I4120115_2011","length":"28:11","maxTimeMs":28},
+  "http://study.huizhou.gov.cn/course/Course.aspx?id\u003d12689":
+  {"link":"http://study.huizhou.gov.cn/course/Course.aspx?id\u003d12689","idFromCourse":"12689","id":"42887","courseId":"NGC85I4220115_2011","length":"30:10","maxTimeMs":30},
+  "http://study.huizhou.gov.cn/course/Course.aspx?id\u003d12688":
+  {"link":"http://study.huizhou.gov.cn/course/Course.aspx?id\u003d12688","idFromCourse":"12688","id":"42886","courseId":"NGC85I4320115_2011","length":"27:32","maxTimeMs":27},
+  "http://study.huizhou.gov.cn/course/Course.aspx?id\u003d12687":
+  {"link":"http://study.huizhou.gov.cn/course/Course.aspx?id\u003d12687","idFromCourse":"12687","id":"42885","courseId":"NGC85I4420115_2011","length":"23:28","maxTimeMs":23},
+  "http://study.huizhou.gov.cn/course/Course.aspx?id\u003d12686":
+  {"link":"http://study.huizhou.gov.cn/course/Course.aspx?id\u003d12686","idFromCourse":"12686","id":"42884","courseId":"NGC85I4520115_2011","length":"32:09","maxTimeMs":32},
+  "http://study.huizhou.gov.cn/course/Course.aspx?id\u003d12668":
+  {"link":"http://study.huizhou.gov.cn/course/Course.aspx?id\u003d12668","idFromCourse":"12668","id":"42854","courseId":"NGC16I1820095_2010","length":"24:49","maxTimeMs":24},
+  "http://study.huizhou.gov.cn/course/Course.aspx?id\u003d12660":
+  {"link":"http://study.huizhou.gov.cn/course/Course.aspx?id\u003d12660","idFromCourse":"12660","id":"42846","courseId":"NGC78I2620095_2010","length":"15:15","maxTimeMs":15},
+  "http://study.huizhou.gov.cn/course/Course.aspx?id\u003d12659":
+  {"link":"http://study.huizhou.gov.cn/course/Course.aspx?id\u003d12659","idFromCourse":"12659","id":"42845","courseId":"NGC78I2720095_2010","length":"15:26","maxTimeMs":15},
+  "http://study.huizhou.gov.cn/course/Course.aspx?id\u003d12658":
+  {"link":"http://study.huizhou.gov.cn/course/Course.aspx?id\u003d12658","idFromCourse":"12658","id":"42844","courseId":"NGC78I2820095_2010","length":"18:16","maxTimeMs":18},
+  "http://study.huizhou.gov.cn/course/Course.aspx?id\u003d12653":
+  {"link":"http://study.huizhou.gov.cn/course/Course.aspx?id\u003d12653","idFromCourse":"12653","id":"42839","courseId":"NGC80T3320095_2010","length":"15:11","maxTimeMs":15},
+  "http://study.huizhou.gov.cn/course/Course.aspx?id\u003d12652":
+  {"link":"http://study.huizhou.gov.cn/course/Course.aspx?id\u003d12652","idFromCourse":"12652","id":"42838","courseId":"NGC82I3420095_2010","length":"18:26","maxTimeMs":18},
+  "http://study.huizhou.gov.cn/course/Course.aspx?id\u003d12651":
+  {"link":"http://study.huizhou.gov.cn/course/Course.aspx?id\u003d12651","idFromCourse":"12651","id":"42837","courseId":"NGC82I3520095_2010","length":"17:46","maxTimeMs":17},
+  "http://study.huizhou.gov.cn/course/Course.aspx?id\u003d12644":
+  {"link":"http://study.huizhou.gov.cn/course/Course.aspx?id\u003d12644","idFromCourse":"12644","id":"42830","courseId":"NGC84I4220095_2010","length":"32:22","maxTimeMs":32},
+  "http://study.huizhou.gov.cn/course/Course.aspx?id\u003d12643":
+  {"link":"http://study.huizhou.gov.cn/course/Course.aspx?id\u003d12643","idFromCourse":"12643","id":"42829","courseId":"NGC84I4320095_2010","length":"28:40","maxTimeMs":28},
+  "http://study.huizhou.gov.cn/course/Course.aspx?id\u003d12642":
+  {"link":"http://study.huizhou.gov.cn/course/Course.aspx?id\u003d12642","idFromCourse":"12642","id":"42828","courseId":"NGC84I4420095_2010","length":"21:41","maxTimeMs":21},
+  "http://study.huizhou.gov.cn/course/Course.aspx?id\u003d12641":
+  {"link":"http://study.huizhou.gov.cn/course/Course.aspx?id\u003d12641","idFromCourse":"12641","id":"42827","courseId":"NGC84I4520095_2010","length":"41:49","maxTimeMs":41},
+  "http://study.huizhou.gov.cn/course/Course.aspx?id\u003d12638":
+  {"link":"http://study.huizhou.gov.cn/course/Course.aspx?id\u003d12638","idFromCourse":"12638","id":"42820","courseId":"DSPHZZY201021","length":"52:08","maxTimeMs":52},
+  "http://study.huizhou.gov.cn/course/Course.aspx?id\u003d12637":
+  {"link":"http://study.huizhou.gov.cn/course/Course.aspx?id\u003d12637","idFromCourse":"12637","id":"42818","courseId":"NGC04I0120085_2009","length":"32:51","maxTimeMs":32},
+  "http://study.huizhou.gov.cn/course/Course.aspx?id\u003d12636":
+  {"link":"http://study.huizhou.gov.cn/course/Course.aspx?id\u003d12636","idFromCourse":"12636","id":"42817","courseId":"NGC04I0220085_2009","length":"25:59","maxTimeMs":25},
+  "http://study.huizhou.gov.cn/course/Course.aspx?id\u003d12633":
+  {"link":"http://study.huizhou.gov.cn/course/Course.aspx?id\u003d12633","idFromCourse":"12633","id":"42814","courseId":"NGC16I0520085_2009","length":"26:03","maxTimeMs":26},
+  "http://study.huizhou.gov.cn/course/Course.aspx?id\u003d12632":
+  {"link":"http://study.huizhou.gov.cn/course/Course.aspx?id\u003d12632","idFromCourse":"12632","id":"42813","courseId":"NGC16I0620085_2009","length":"23:39","maxTimeMs":23},
+  "http://study.huizhou.gov.cn/course/Course.aspx?id\u003d12631":
+  {"link":"http://study.huizhou.gov.cn/course/Course.aspx?id\u003d12631","idFromCourse":"12631","id":"42812","courseId":"NGC16I0720085_2009","length":"26:26","maxTimeMs":26},
+  "http://study.huizhou.gov.cn/course/Course.aspx?id\u003d12630":
+  {"link":"http://study.huizhou.gov.cn/course/Course.aspx?id\u003d12630","idFromCourse":"12630","id":"42811","courseId":"NGC16N0820085_2009","length":"39:47","maxTimeMs":39},
+  "http://study.huizhou.gov.cn/course/Course.aspx?id\u003d12629":
+  {"link":"http://study.huizhou.gov.cn/course/Course.aspx?id\u003d12629","idFromCourse":"12629","id":"42810","courseId":"NGC16N0920085_2009","length":"23:45","maxTimeMs":23},
+  "http://study.huizhou.gov.cn/course/Course.aspx?id\u003d12617":
+  {"link":"http://study.huizhou.gov.cn/course/Course.aspx?id\u003d12617","idFromCourse":"12617","id":"42798","courseId":"NGC78I2320085_2009","length":"30:14","maxTimeMs":30},
+  "http://study.huizhou.gov.cn/course/Course.aspx?id\u003d12616":
+  {"link":"http://study.huizhou.gov.cn/course/Course.aspx?id\u003d12616","idFromCourse":"12616","id":"42797","courseId":"NGC78I2420085_2009","length":"14:40","maxTimeMs":14},
+  "http://study.huizhou.gov.cn/course/Course.aspx?id\u003d12615":
+  {"link":"http://study.huizhou.gov.cn/course/Course.aspx?id\u003d12615","idFromCourse":"12615","id":"42796","courseId":"NGC78I2520085_2009","length":"18:29","maxTimeMs":18},
+  "http://study.huizhou.gov.cn/course/Course.aspx?id\u003d12614":
+  {"link":"http://study.huizhou.gov.cn/course/Course.aspx?id\u003d12614","idFromCourse":"12614","id":"42795","courseId":"NGC80T2620095_2009","length":"15:27","maxTimeMs":15},
+  "http://study.huizhou.gov.cn/course/Course.aspx?id\u003d12613":
+  {"link":"http://study.huizhou.gov.cn/course/Course.aspx?id\u003d12613","idFromCourse":"12613","id":"42794","courseId":"NGC80T2720095_2009","length":"17:29","maxTimeMs":17},
+  "http://study.huizhou.gov.cn/course/Course.aspx?id\u003d12612":
+  {"link":"http://study.huizhou.gov.cn/course/Course.aspx?id\u003d12612","idFromCourse":"12612","id":"42793","courseId":"NGC80T2820095_2009","length":"13:57","maxTimeMs":13},
+  //"http://study.huizhou.gov.cn/course/Course.aspx?id\u003d12611":
+  //{"link":"http://study.huizhou.gov.cn/course/Course.aspx?id\u003d12611","idFromCourse":"12611","id":"42792","courseId":"NGC82I2920085_2009","length":"00:00","maxTimeMs":0},
+  "http://study.huizhou.gov.cn/course/Course.aspx?id\u003d12609":
+  {"link":"http://study.huizhou.gov.cn/course/Course.aspx?id\u003d12609","idFromCourse":"12609","id":"42790","courseId":"NGC82I3120085_2009","length":"12:41","maxTimeMs":12},
+  "http://study.huizhou.gov.cn/course/Course.aspx?id\u003d12595":
+  {"link":"http://study.huizhou.gov.cn/course/Course.aspx?id\u003d12595","idFromCourse":"12595","id":"42776","courseId":"NGC83N4520085_2009","length":"29:35","maxTimeMs":29},
+  "http://study.huizhou.gov.cn/course/Course.aspx?id\u003d12594":
+  {"link":"http://study.huizhou.gov.cn/course/Course.aspx?id\u003d12594","idFromCourse":"12594","id":"42766","courseId":"DSPHZZY20100901","length":"54:37","maxTimeMs":54},
+  "http://study.huizhou.gov.cn/course/Course.aspx?id\u003d12593":
+  {"link":"http://study.huizhou.gov.cn/course/Course.aspx?id\u003d12593","idFromCourse":"12593","id":"42765","courseId":"DSPHZZY20100902","length":"54:38","maxTimeMs":54},
+  "http://study.huizhou.gov.cn/course/Course.aspx?id\u003d12586":
+  {"link":"http://study.huizhou.gov.cn/course/Course.aspx?id\u003d12586","idFromCourse":"12586","id":"42746","courseId":"NGC16I0320075_2008","length":"29:46","maxTimeMs":29},
+  "http://study.huizhou.gov.cn/course/Course.aspx?id\u003d12585":
+  {"link":"http://study.huizhou.gov.cn/course/Course.aspx?id\u003d12585","idFromCourse":"12585","id":"42745","courseId":"NGC16I0420075_2008","length":"25:29","maxTimeMs":25},
+  "http://study.huizhou.gov.cn/course/Course.aspx?id\u003d12568":
+  {"link":"http://study.huizhou.gov.cn/course/Course.aspx?id\u003d12568","idFromCourse":"12568","id":"42728","courseId":"NGC58I2320075_2008","length":"22:15","maxTimeMs":22},
+  "http://study.huizhou.gov.cn/course/Course.aspx?id\u003d12560":
+  {"link":"http://study.huizhou.gov.cn/course/Course.aspx?id\u003d12560","idFromCourse":"12560","id":"42720","courseId":"NGC80T3320085_2008","length":"18:46","maxTimeMs":18},
+  "http://study.huizhou.gov.cn/course/Course.aspx?id\u003d12559":
+  {"link":"http://study.huizhou.gov.cn/course/Course.aspx?id\u003d12559","idFromCourse":"12559","id":"42719","courseId":"NGC80T3420085_2008","length":"17:15","maxTimeMs":17},
+  "http://study.huizhou.gov.cn/course/Course.aspx?id\u003d12556":
+  {"link":"http://study.huizhou.gov.cn/course/Course.aspx?id\u003d12556","idFromCourse":"12556","id":"42716","courseId":"NGC82I3720075_2008","length":"11:20","maxTimeMs":11},
+  "http://study.huizhou.gov.cn/course/Course.aspx?id\u003d12555":
+  {"link":"http://study.huizhou.gov.cn/course/Course.aspx?id\u003d12555","idFromCourse":"12555","id":"42715","courseId":"NGC82I3820075_2008","length":"14:13","maxTimeMs":14},
+  "http://study.huizhou.gov.cn/course/Course.aspx?id\u003d12554":
+  {"link":"http://study.huizhou.gov.cn/course/Course.aspx?id\u003d12554","idFromCourse":"12554","id":"42714","courseId":"NGC82I3920075_2008","length":"12:59","maxTimeMs":12},
+  "http://study.huizhou.gov.cn/course/Course.aspx?id\u003d12529":
+  {"link":"http://study.huizhou.gov.cn/course/Course.aspx?id\u003d12529","idFromCourse":"12529","id":"42630","courseId":"NGC16I1420065_2007","length":"27:53","maxTimeMs":27},
+  "http://study.huizhou.gov.cn/course/Course.aspx?id\u003d12528":
+  {"link":"http://study.huizhou.gov.cn/course/Course.aspx?id\u003d12528","idFromCourse":"12528","id":"42629","courseId":"NGC16I1520065_2007","length":"44:29","maxTimeMs":44},
+  "http://study.huizhou.gov.cn/course/Course.aspx?id\u003d12527":
+  {"link":"http://study.huizhou.gov.cn/course/Course.aspx?id\u003d12527","idFromCourse":"12527","id":"42628","courseId":"NGC16I1620065_2007","length":"37:15","maxTimeMs":37},
+  "http://study.huizhou.gov.cn/course/Course.aspx?id\u003d12526":
+  {"link":"http://study.huizhou.gov.cn/course/Course.aspx?id\u003d12526","idFromCourse":"12526","id":"42627","courseId":"NGC16I1720075_2007","length":"29:48","maxTimeMs":29},
+  "http://study.huizhou.gov.cn/course/Course.aspx?id\u003d12525":
+  {"link":"http://study.huizhou.gov.cn/course/Course.aspx?id\u003d12525","idFromCourse":"12525","id":"42626","courseId":"NGC16I1820075_2007","length":"30:21","maxTimeMs":30},
+  "http://study.huizhou.gov.cn/course/Course.aspx?id\u003d12463":
+  {"link":"http://study.huizhou.gov.cn/course/Course.aspx?id\u003d12463","idFromCourse":"12463","id":"42533","courseId":"NGC05I0520055_2006","length":"32:12","maxTimeMs":32},
+  "http://study.huizhou.gov.cn/course/Course.aspx?id\u003d12462":
+  {"link":"http://study.huizhou.gov.cn/course/Course.aspx?id\u003d12462","idFromCourse":"12462","id":"42532","courseId":"NGC05I0620055_2006","length":"28:12","maxTimeMs":28},
+  "http://study.huizhou.gov.cn/course/Course.aspx?id\u003d12461":
+  {"link":"http://study.huizhou.gov.cn/course/Course.aspx?id\u003d12461","idFromCourse":"12461","id":"42531","courseId":"NGC16N0720055_2006","length":"41:38","maxTimeMs":41},
+  "http://study.huizhou.gov.cn/course/Course.aspx?id\u003d12460":
+  {"link":"http://study.huizhou.gov.cn/course/Course.aspx?id\u003d12460","idFromCourse":"12460","id":"42530","courseId":"NGC16N0820055_2006","length":"47:45","maxTimeMs":47},
 
 "http://study.huizhou.gov.cn/course/Course.aspx?id\u003d8043":
 {"link":"http://study.huizhou.gov.cn/course/Course.aspx?id\u003d8043","id":"38055","courseId":"DSPHZ17101005","length":"01:35:00","maxTimeMs":95},

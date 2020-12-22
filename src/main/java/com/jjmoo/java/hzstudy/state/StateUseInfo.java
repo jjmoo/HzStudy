@@ -12,6 +12,7 @@ import rx.functions.Action1;
 
 import java.util.List;
 import java.util.Map;
+import java.util.Random;
 import java.util.Scanner;
 
 /**
@@ -20,6 +21,7 @@ import java.util.Scanner;
  */
 public class StateUseInfo implements IState<UserCenter> {
     private static boolean isFirst = true;
+    private static int recommend = new Random().nextInt(10) + 100;
 
     @Override
     public void execute(final Controller<UserCenter> controller) {
@@ -84,9 +86,15 @@ public class StateUseInfo implements IState<UserCenter> {
             System.out.println("    [" + courseToLearn.getType() + "][" + courseToLearn.getScore()
                     + "][" + courseToLearn.getTitle() + "] " + courseToLearn.getLink());
             while (true) {
-                System.out.print("\nLearn this? Please choose: Y/N? (default:Y) ");
+                System.out.print("\nLearn this? Please choose: Y/N? (default:Y) (target=" + recommend + ")");
+                float netScore = Integer.MAX_VALUE;
+                try {
+                    netScore = Float.parseFloat(user.getBaseInfo().getNetScore());
+                } catch (Exception e) {
+                    // ignore
+                }
                 String cmd;
-                if (isFirst) {
+                if (isFirst || netScore >= recommend) {
                     isFirst = false;
                     Scanner scanner = new Scanner(System.in);
                     cmd = scanner.nextLine();
